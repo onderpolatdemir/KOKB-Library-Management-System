@@ -24,8 +24,6 @@ A role-based library management mobile application built using modern Android de
 
 ### Frontend
 - **Jetpack Compose** – Declarative UI development
-- **Material 3 Design** – Clean and modern UI components
-- **Coil** – Image loading and caching
 - **Navigation Component** – Type-safe in-app navigation
 
 ### Architecture
@@ -42,8 +40,6 @@ A role-based library management mobile application built using modern Android de
 ### Development & Tools
 - **Kotlin** – Main programming language
 - **Gradle (Kotlin DSL)** – Build configuration
-- **JUnit / Espresso** – Unit and UI testing
-- **Git** – Version control
 
 > ⚠️ Note: Backend implementation is not included, but the app is fully integrated to communicate with RESTful APIs.
 
